@@ -1,8 +1,8 @@
 ### Hi i'm Matar 👋
 
-- 🔭 I’m currently working on php  Laravel/java, networks and security
-- 🌱 I’m currently learning php laravel ,java and flutter
-- 👯 I’m looking to collaborate on php laravel, java and flutter
+- 🔭 I’m currently working on php  Laravel/ react
+- 🌱 I’m currently learning react 
+- 👯 I’m looking to collaborate on php laravel,react
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
