@@ -37,7 +37,7 @@ Je suis toujours prêt à **apprendre n’importe quel langage ou framework** se
 ## 📫 Me contacter
 - **Email** : seckmatar9521@gmail.com  
 - **LinkedIn** : [linkedin.com/in/matar-seck](https://linkedin.com/in/matar-seck)  
-- **Twitter** : [@MatarSeckDev](https://twitter.com/NdiagaMatarSeck)
+- **Twitter** : [@NdiagaMatarSeck](https://twitter.com/NdiagaMatarSeck)
 
 ## 😄 Pronoms
 he / him
