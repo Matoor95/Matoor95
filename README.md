@@ -24,8 +24,8 @@ Je cherche à participer à des projets open-source ou d’équipe autour de :
 ## 🛠️ Compétences & Outils
 | Backend                     | Frontend                  | Base de données     | DevOps & Outils       |
 | :-------------------------: | :-----------------------: | :-----------------: | :-------------------: |
-| ![PHP](https://img.shields.io/badge/PHP-8.1-blue) | ![React](https://img.shields.io/badge/React-18-61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-5.7-%2300f) | ![Git](https://img.shields.io/badge/Git-F05032) |
-| ![Laravel](https://img.shields.io/badge/Laravel-10-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-4169E1) | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
+| ![PHP](https://img.shields.io/badge/PHP-8.3-blue) | ![React](https://img.shields.io/badge/React-18-61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-5.7-%2300f) | ![Git](https://img.shields.io/badge/Git-F05032) |
+| ![Laravel](https://img.shields.io/badge/Laravel-12-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow)  | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
 
 ## 📫 Me contacter
 - **Email** : seckmatar9521@gmail.com  
