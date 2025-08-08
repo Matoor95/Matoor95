@@ -27,8 +27,8 @@ Je cherche à participer à des projets open-source ou d’équipe autour de :
 ## 🛠️ Compétences & Outils
 | Backend                     | Frontend                  | Mobile & SDK        | DevOps & Outils       |
 | :-------------------------: | :-----------------------: | :-----------------: | :-------------------: |
-| ![PHP](https://img.shields.io/badge/PHP-8.1-blue) | ![React](https://img.shields.io/badge/React-18-61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-3.0-blue) | ![Git](https://img.shields.io/badge/Git-F05032) |
-| ![Laravel](https://img.shields.io/badge/Laravel-10-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow) | ![Dart](https://img.shields.io/badge/Dart-2.19-blue) | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
+| ![PHP](https://img.shields.io/badge/PHP-8.2-blue) | ![React](https://img.shields.io/badge/React-19-61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-3.0-blue) | ![Git](https://img.shields.io/badge/Git-F05032) |
+| ![Laravel](https://img.shields.io/badge/Laravel-12-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow) | ![Dart](https://img.shields.io/badge/Dart-2.19-blue) | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
 
 ## 🚀 Polyvalence
 Je suis toujours prêt à **apprendre n’importe quel langage ou framework** selon les besoins du projet !
