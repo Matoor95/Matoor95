@@ -1,4 +1,4 @@
-# Salut, moi c’est Matar 👋
+# Salut, moi c’est Matar Ndiaga SECK 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tonusername&style=flat-square)
 
@@ -8,24 +8,31 @@
 Je travaille principalement avec **PHP** et **Laravel**, et j’explore de plus en plus l’univers de **React** pour construire des interfaces modernes et réactives.
 
 ## 🌱 En apprentissage
-- **React** (hooks, context API, Next.js…)  
-- **TypeScript** (pour typer mes applications front-end)
+- **React** (Hooks, Context API, Next.js…)  
+- **TypeScript** (pour typer mes applications front-end)  
+- **Flutter & Dart** (pour créer des applications mobiles cross-platform)
 
 ## 👯 En quête de collaborations
-Je cherche à participer à des projets open-source ou d’équipe autour de :
+Je cherche à participer à des projets open-source ou d’équipe autour de :  
 - PHP & Laravel  
-- React & Écosystème JavaScript
+- React & Écosystème JavaScript  
+- Flutter & Dart
 
 ## 💬 N’hésitez pas à me poser des questions sur
 - Architecture d’API RESTful  
 - Intégration Laravel × React (Inertia.js / API)  
+- Développement mobile avec Flutter  
 - Bonnes pratiques et patterns en PHP & JavaScript
-
+  
 ## 🛠️ Compétences & Outils
-| Backend                     | Frontend                  | Base de données     | DevOps & Outils       |
+| Backend                     | Frontend                  | Mobile & SDK        | DevOps & Outils       |
 | :-------------------------: | :-----------------------: | :-----------------: | :-------------------: |
-| ![PHP](https://img.shields.io/badge/PHP-8.3-blue) | ![React](https://img.shields.io/badge/React-18-61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-5.7-%2300f) | ![Git](https://img.shields.io/badge/Git-F05032) |
-| ![Laravel](https://img.shields.io/badge/Laravel-12-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow)  | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
+| ![PHP](https://img.shields.io/badge/PHP-8.1-blue) | ![React](https://img.shields.io/badge/React-18-61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-3.0-blue) | ![Git](https://img.shields.io/badge/Git-F05032) |
+| ![Laravel](https://img.shields.io/badge/Laravel-10-red) | ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow) | ![Dart](https://img.shields.io/badge/Dart-2.19-blue) | ![Docker](https://img.shields.io/badge/Docker-24-blue) |
+
+## 🚀 Polyvalence
+Je suis toujours prêt à **apprendre n’importe quel langage ou framework** selon les besoins du projet !
+
 
 ## 📫 Me contacter
 - **Email** : seckmatar9521@gmail.com  
